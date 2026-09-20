@@ -1,5 +1,7 @@
 # Cardsmith
 
+[![build](https://github.com/keerthishree20/cardsmith/actions/workflows/build.yml/badge.svg)](https://github.com/keerthishree20/cardsmith/actions/workflows/build.yml)
+
 Turn notes into flashcards, then review them the day before you'd forget.
 
 **Live site:** https://keerthishree20.github.io/cardsmith/
